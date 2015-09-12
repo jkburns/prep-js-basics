@@ -44,6 +44,8 @@ var isHappyCoding = true;
 * declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
 * Their values should be a Null value
 **/
+var enrolledAtDevLeague = null;
+var completedFridayPrep = null;
 
 
 /**
@@ -53,7 +55,7 @@ var isHappyCoding = true;
 * declare a variable named `west_coast` which is an Array. This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-
+var westCoast = 
 
 
 /**
