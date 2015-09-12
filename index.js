@@ -55,7 +55,8 @@ var completedFridayPrep = null;
 * declare a variable named `west_coast` which is an Array. This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-var westCoast = 
+var westCoast = ["Oregon", "Washington", "California", "Alaska"];
+
 
 
 /**
@@ -66,7 +67,7 @@ var westCoast =
 * are considered 'even values'. Have at least ten even values in this array
 **/
 
-
+var evenNumbers = [0, 2, 4, 6, 8, 10, 12, 14, 16, 18];
 
 /**
 * #6a Arithmetic
