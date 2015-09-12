@@ -73,17 +73,23 @@ var evenNumbers = [0, 2, 4, 6, 8, 10, 12, 14, 16, 18];
 * #6a Arithmetic
 */
 
+var sum = 1 + 10;
 
+var difference = 10 - 1;
+var multiply = 2 * 1;
+var divide = 2 / 1;
 
 /**
 * #6b Comparisons & Logic
 */
-
+var x > 5; 
+var y < 3;
 
 
 /**
 * #6c Assignments
 */
+var purple = "barney" + " " + "the" + " " + "dinosaur";
 
 
 
