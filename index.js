@@ -31,9 +31,10 @@ var thatOnePrinceSong = "Doves Don't Cry";
 * declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`, and `isHappyCoding`
 * Their values should be a Boolean
 **/
-var isDaytime = 
-var isLeftHanded = 
-var 
+var isDaytime = true;
+var isLeftHanded = false;
+var inHawaii = true;
+var isHappyCoding = true;
 
 
 /**
